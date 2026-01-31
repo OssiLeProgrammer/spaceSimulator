@@ -1,7 +1,7 @@
 .vs
 spaceSimulator
 x64
-spaceSimulator.sln
+build
 spaceSimulator.vcxproj
 spaceSimulator.vcxproj.filters
 spaceSimulator.vcxproj.user
